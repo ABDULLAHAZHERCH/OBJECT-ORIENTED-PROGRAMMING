@@ -1,0 +1,31 @@
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\bin\Debug\PACMAN.exe.config
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\bin\Debug\PACMAN.exe
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\bin\Debug\PACMAN.pdb
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\bin\Debug\EZInput.dll
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\bin\Debug\EZInput.xml
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.AssemblyReference.cache
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\PACMAN.MainGame.resources
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\PACMAN.Properties.Resources.resources
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.GenerateResource.cache
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.CoreCompileInputs.cache
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.CopyComplete
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\PACMAN.exe
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\PACMAN.pdb
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\PACMAN.FORMS.Instructions.resources
+C:\Users\laptop zone\Desktop\SHOOT\PACMAN\obj\Debug\PACMAN.Start.resources
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\bin\Debug\PACMAN.exe.config
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\bin\Debug\PACMAN.exe
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\bin\Debug\PACMAN.pdb
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\bin\Debug\EZInput.dll
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\bin\Debug\EZInput.xml
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.AssemblyReference.cache
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\PACMAN.FORMS.Instructions.resources
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\PACMAN.MainGame.resources
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\PACMAN.Properties.Resources.resources
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\PACMAN.Start.resources
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.GenerateResource.cache
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.CoreCompileInputs.cache
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\SHOOT.csproj.CopyComplete
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\PACMAN.exe
+E:\UET\2. Sem 2\OOP\OOP\PROJECTS\SHOOT\PACMAN\obj\Debug\PACMAN.pdb

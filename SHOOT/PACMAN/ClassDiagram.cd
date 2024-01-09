@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PACMAN.GL.Collision">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>GL\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.Enemy">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.Fire">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Fire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.Game">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>GL\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.GameCell">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAQAQAAAAgAAACIAAAAgAABgwAAAYAA=</HashCode>
+      <FileName>GL\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.GameGrid">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAACAEAAAAJCAAAAAAAAAAAACAAAAAgAAAA=</HashCode>
+      <FileName>GL\GameGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.GameObject">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAEwAAQBAAAEAAEAAAABA=</HashCode>
+      <FileName>GL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.HorizontalEnemy">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\HorizontalEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.Player">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.RandomEnemy">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\RandomEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.SmartEnemy">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\SmartEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PACMAN.GL.VerticalEnemy">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GL\VerticalEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PACMAN.GL.GameDirection">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GL\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PACMAN.GL.GameObjectType">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAAQAAAABAAAAAAAAAAAABQAAAAAA=</HashCode>
+      <FileName>GL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
