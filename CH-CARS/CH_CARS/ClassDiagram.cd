@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CH_CARS.BL.Car">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQEEAQEBABAAAAAAAQICAEAAAgAAAAAAQAAAEGAA=</HashCode>
+      <FileName>BL\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CH_CARS.BL.MUser">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAAQAAAgAEAAAABQACAAEAAACAAAAwgAABAA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Car" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CH_CARS.BL.RentCar">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\RentCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CH_CARS.BL.SaleCar">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\SaleCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
